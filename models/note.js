@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
 const url = process.env.MONDODB_URI;
+// testikommentti
 
 console.log('connecting to database');
 
