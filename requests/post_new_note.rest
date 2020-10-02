@@ -1,7 +1,7 @@
-POST http://localhost:3000/api/notes
+POST http://localhost:3001/api/notes
 Content-type: application/json
 
 {
-  "note": "VCBasicin kautta",
+  "content": "VCBasicin kautta 13" ,
   "important": false
 }
